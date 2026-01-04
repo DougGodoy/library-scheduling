@@ -1,0 +1,5 @@
+{
+  "name": "Library Computer Booking System",
+  "description": "A comprehensive system for managing and booking library computers with real-time availability tracking and reservation management.",
+  "requestFramePermissions": []
+}
